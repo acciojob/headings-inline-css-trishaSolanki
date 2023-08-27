@@ -1,39 +1,22 @@
 /*  your css code here. If applicable */
-.span-1{
+ .span-1{
 	color:#2a7ae2;
-	font-size:70px;
-	font-weight:800;
-	margin:25px;
+
 }
 .span-2{
 	color:#f44336;
-	font-size:60px;
-	font-weight:700;
-	margin:20px
 }
 .span-3{
 	color:#4caf50;
-	font-size:50px;
-	font-weight:600;
-	margin:18px;
-	
-	
 }
 .span-4{
 	color:#ff9800;
-	font-size:50px;
-	font-weight:400;
-	margin:19px;
 }
 .span-5{
 	color:#607d8b;
-	font-size:40px;
-	font-weight:300;
-	margin:19px;
+	
 }
 .span-6{
 	color:#ffeb3b;
-	font-size:30px;
-	font-weight:200;
-	margin:19px;
-}
+	
+} 
